@@ -1,0 +1,67 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/0.f4c8a0f7d3bdc6e31bb6.js",
+        "/1.2bf56954294d6de477ef.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.9c67604135c628e73d5e.js",
+        "/ngsw-worker.js",
+        "/polyfills.c00d0bb955c298a4413d.js",
+        "/runtime.3542131babab4b02192b.js",
+        "/safety-worker.js",
+        "/styles.fc13cd6e69d44b2a94f5.css",
+        "/worker-basic.min.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/ngx-rocket-logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/0.f4c8a0f7d3bdc6e31bb6.js": "aa8f98279068964ec495f68ec0e91f6805a2098e",
+    "/1.2bf56954294d6de477ef.js": "1f420cc6b8fd2e93aa2b2809f9e56d11dbeb4a6b",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "/index.html": "88d35a73b4f933ecaf9c74cd28922bf1fb5687c7",
+    "/main.9c67604135c628e73d5e.js": "0e73c5825cb3a424e7266026d67598371a05bd56",
+    "/ngsw-worker.js": "09d1943903239c062615b3e3347692131cc078c7",
+    "/polyfills.c00d0bb955c298a4413d.js": "4487f7b11d189fd9e6c7c77fdf92fc31bf564fc2",
+    "/runtime.3542131babab4b02192b.js": "e3f9de52cfcee3dab63269bdee94a0f432bf1a31",
+    "/safety-worker.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9",
+    "/styles.fc13cd6e69d44b2a94f5.css": "c5a1d8b1de5c866513b3e5b66d780fec747abe0b",
+    "/worker-basic.min.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
