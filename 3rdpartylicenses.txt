@@ -628,9 +628,9 @@ MIT
 
 @angular/material/menu
 
-@angular/material/progress-spinner
-
 @angular/material/slide-toggle
+
+@angular/material/progress-spinner
 
 @angular/service-worker
 MIT
