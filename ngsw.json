@@ -8,12 +8,12 @@
       "updateMode": "prefetch",
       "urls": [
         "/4.097f5b6c592e37efb3ec.js",
-        "/5.fb56b5ff8b0d362e5e52.js",
+        "/5.e050e4979e8cf97d2f11.js",
         "/favicon.ico",
         "/index.html",
-        "/main.547d26d424ec64cd1c1d.js",
+        "/main.9ae8617e4a82bad113d2.js",
         "/polyfills.80870d019347f8e5aa1d.js",
-        "/runtime.563c0c136a9917409d5c.js",
+        "/runtime.3d9e9e7800780299c540.js",
         "/styles.c7722d7ba609b68127c8.css"
       ],
       "patterns": []
@@ -23,6 +23,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/dummy-image.svg",
         "/assets/ngx-rocket-logo.png"
       ],
       "patterns": []
@@ -31,13 +32,14 @@
   "dataGroups": [],
   "hashTable": {
     "/4.097f5b6c592e37efb3ec.js": "5ea1e8462a3f43b7c959a58a3e298b1947cf626a",
-    "/5.fb56b5ff8b0d362e5e52.js": "4d3f13dccf07503e5d6b15c06ab24b3fa08f9719",
+    "/5.e050e4979e8cf97d2f11.js": "e4d3c8354da7318a444b0c39f51f8ca13b3fbc53",
+    "/assets/dummy-image.svg": "1196d2bf4be4873609d45453415da10d3056b9c1",
     "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
     "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "/index.html": "1a63d2decf7e17ffe2a69b35186c2fdbaf25b27e",
-    "/main.547d26d424ec64cd1c1d.js": "e9b9eb1e1c488eb38fdb812c9af9add8e95470f0",
+    "/index.html": "50d3294ee51fe1cbe6859bf8783ef91c80ea361d",
+    "/main.9ae8617e4a82bad113d2.js": "29131bc802ff9ce4dcb84b640b32c2dc03884c7c",
     "/polyfills.80870d019347f8e5aa1d.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "/runtime.563c0c136a9917409d5c.js": "5bc81527b76bbf384494a65c8461a3850c25276a",
+    "/runtime.3d9e9e7800780299c540.js": "f334f0e91ad28dd23a26a3ec425c8d1259cbca7c",
     "/styles.c7722d7ba609b68127c8.css": "4011c98a78ad689dd70cb2d9b9d2cd4d2d78e466"
   },
   "navigationUrls": [
