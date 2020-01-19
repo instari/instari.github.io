@@ -1,5 +1,6 @@
 {
   "configVersion": 1,
+  "timestamp": 1579433646964,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -7,14 +8,20 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.097f5b6c592e37efb3ec.js",
-        "/5.f6429a4149b33b1937fe.js",
+        "/3-es5.b637b6d992a3200f86ae.js",
+        "/4-es2015.f1dddf61e441c15e87c9.js",
+        "/4-es5.8e556728bc29a9045394.js",
+        "/5-es2015.2dcaf1bca8dac7d75758.js",
         "/favicon.ico",
         "/index.html",
-        "/main.b2ad9013519edad99388.js",
-        "/polyfills.80870d019347f8e5aa1d.js",
-        "/runtime.ff231bf9a0d51bfc4614.js",
-        "/styles.c7722d7ba609b68127c8.css"
+        "/main-es2015.7728b15fd4e4b23f3d98.js",
+        "/main-es5.e296d8b381794fa5f5bc.js",
+        "/manifest.json",
+        "/polyfills-es2015.22a225bf09230efde55d.js",
+        "/polyfills-es5.bbee579721a4b61db882.js",
+        "/runtime-es2015.bd4b5855f8fd927c2c5b.js",
+        "/runtime-es5.02f5e885c5d017285a55.js",
+        "/styles.5034c96117cfa30da04f.css"
       ],
       "patterns": []
     },
@@ -23,24 +30,40 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/MaterialIcons-Regular.0509ab09c1b0d2200a41.woff2",
+        "/MaterialIcons-Regular.29b882f018fa6fe75fd3.woff",
+        "/MaterialIcons-Regular.96c476804d7a788cc1c0.eot",
+        "/MaterialIcons-Regular.da4ea5cdfca6b3baab28.ttf",
         "/assets/dummy-image.svg",
-        "/assets/ngx-rocket-logo.png"
+        "/assets/ngx-rocket-logo.png",
+        "/assets/ngx-rocket-logo@192.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.097f5b6c592e37efb3ec.js": "5ea1e8462a3f43b7c959a58a3e298b1947cf626a",
-    "/5.f6429a4149b33b1937fe.js": "4de770fbf32393f9499907c49a3c429a357988e0",
+    "/3-es5.b637b6d992a3200f86ae.js": "55e36f3a3d4d3a13395c10caf3618f3f320f5d9c",
+    "/4-es2015.f1dddf61e441c15e87c9.js": "3402d0b45241f7f56dd9d661d4fd0d2a9d833075",
+    "/4-es5.8e556728bc29a9045394.js": "c2e420719e454c633d5848f5cc71a7a7d902ecf3",
+    "/5-es2015.2dcaf1bca8dac7d75758.js": "b5f68458739da4cf3e29e78d9aa3a701fc14fc03",
+    "/MaterialIcons-Regular.0509ab09c1b0d2200a41.woff2": "308ee3580a4a34bd230025d460762d53b5344efc",
+    "/MaterialIcons-Regular.29b882f018fa6fe75fd3.woff": "951adc0458f2ead8495da26886b1f1284a716eaa",
+    "/MaterialIcons-Regular.96c476804d7a788cc1c0.eot": "b28698262d8d8766c7c1bede47059ebea19a90a0",
+    "/MaterialIcons-Regular.da4ea5cdfca6b3baab28.ttf": "b2091f9964be16d1065d5afee6d0b258fe29a5ac",
     "/assets/dummy-image.svg": "1196d2bf4be4873609d45453415da10d3056b9c1",
     "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
     "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "/index.html": "268c48f1d41bdf0b51947fa0648d2087553f7aeb",
-    "/main.b2ad9013519edad99388.js": "d392b7f780b9284a0fd549570c2e61e4df204327",
-    "/polyfills.80870d019347f8e5aa1d.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "/runtime.ff231bf9a0d51bfc4614.js": "cd813b29b27902b31410ab00989e282facb463e9",
-    "/styles.c7722d7ba609b68127c8.css": "4011c98a78ad689dd70cb2d9b9d2cd4d2d78e466"
+    "/index.html": "5e93ddee5cbf1e5b259b46dae64bd94115dacacf",
+    "/main-es2015.7728b15fd4e4b23f3d98.js": "1a9f12126e8c985c401d147cc2046b5c81e76ccb",
+    "/main-es5.e296d8b381794fa5f5bc.js": "5eec8a78aeeec845cd86a7d42e92282e3d4d7a93",
+    "/manifest.json": "c9c194d039769d276cdbabcf02c86dbf2a414bc4",
+    "/polyfills-es2015.22a225bf09230efde55d.js": "e4be224553c5002677d7b21a2514f68bd4d9459d",
+    "/polyfills-es5.bbee579721a4b61db882.js": "94cee3e3f799f26825a6f31b054aed41c7d5f5ec",
+    "/runtime-es2015.bd4b5855f8fd927c2c5b.js": "1e2b2080436178e63d269faecf0c3bd4e0150440",
+    "/runtime-es5.02f5e885c5d017285a55.js": "7a9743915ace1dd8c1521876028cdd40632907c5",
+    "/styles.5034c96117cfa30da04f.css": "3778c3e6addc0198570b625163cb8a2da24a083f"
   },
   "navigationUrls": [
     {
