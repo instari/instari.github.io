@@ -134,8 +134,6 @@ THE SOFTWARE.
 
 @angular/material/sidenav
 
-@angular/material/slide-toggle
-
 @angular/material/snack-bar
 
 @angular/material/toolbar
